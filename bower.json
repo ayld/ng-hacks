@@ -1,10 +1,10 @@
 {
-  "name": "angular-seed",
+  "name": "hacks",
   "description": "A starter project for AngularJS",
-  "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ayld/ng-hacks",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "angular": "1.2.x",
     "angular-route": "1.2.x",
